@@ -1,2 +1,2 @@
-# python_z21
+# python_Samoortogonalna modulo 2 matrica
 Numpy, workout
